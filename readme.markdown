@@ -37,12 +37,16 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Head First Design Patterns](http://amzn.to/1S6XaGb)
 - :new_moon: [Programming Pearls](http://amzn.to/1SD1fRH)
 - :new_moon: [Becoming Functional](https://www.amazon.com/gp/product/1449368174/ref=od_aui_detailpages00)
+- :new_moon: [99 Bottles of OOP <sub>Sandy Metz</sub>](http://www.sandimetz.com/99bottles)
+- :new_moon: [Design Patterns <sub>Elements of Reusable Object-Oriented Software</sub>](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
 ## Internals
 - :new_moon: [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
 - :new_moon: [Mastering Regular Expressions](http://amzn.to/1SD0Ezx)
 - :new_moon: [The Linux Programming Interface](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200)
 - :new_moon: [Modern Compiler Implementation in ML](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/0521607647)
+- :new_moon: [Understanding Compression <sub>Data Compression for Modern Developers</sub>](https://www.amazon.com/Understanding-Compression-Data-Modern-Developers/dp/1491961538)
+- :new_moon: [Engineering-Compiler-Second-Keith-Cooper](https://www.amazon.com/Engineering-Compiler-Second-Keith-Cooper/dp/012088478X)
 
 ## Algorithms
 - :waxing_crescent_moon: [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1)
@@ -52,6 +56,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :waxing_crescent_moon: [Elements of Programming Interviews: The Insiders' Guide](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=sr_1_2)
 - :waxing_crescent_moon: [Cracking the Coding Interview <sub>189 Programming Questions and Solutions</sub>](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/ref=sr_1_2)
 - :new_moon: [Learning Javascript Data structures](https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms/dp/1783554878)
+- :new_moon: [Data Structures and Algorithms with JavaScript](http://shop.oreilly.com/product/0636920029557.do)
 
 ## Web Performance
 - :new_moon: [Designing for Performance <sub>Weighing Aesthetics and Speed</sub>](http://amzn.to/1SCZ0hj)
